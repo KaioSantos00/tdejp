@@ -1,0 +1,42 @@
+body {
+  background: #78866b;
+}
+ h1 { color: #000; }  
+  h2 { color: #000; }
+   h3 { color: #000; }
+   p {font-family: vision;}
+    h1 {font-family: sevenfifteen;}
+	h2 {font-family: sevenfifteen;}
+	h3 {font-family: sevenfifteen;}
+    p { color: white; }
+	  P { text-align: justify }
+	  h1 { text-align: center }
+	  
+	  h1{
+    border-width: 5px;
+  border-style: solid;
+  border-color: #09342a;
+
+}
+h3 {
+  border-width: medium;
+  border-style: solid;
+  border-color: #054f77;
+  }
+  a:link, a:visited {
+	text-decoration: none
+	}
+a:hover {
+	text-decoration: underline; 
+	color: #f00
+	}
+a:active {
+	text-decoration: none
+	}
+	a:link, a:visited, a:active {
+	text-decoration: none;
+	}
+a:hover {text-decoration: underline;  
+	color:#fff; 
+	font-size:150%; 
+	}
